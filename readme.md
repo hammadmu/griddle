@@ -46,6 +46,7 @@ use `control + shift + L` to show the Griddle overlay in the browser on these pr
 - [Cosaic](https://cosaic.io) - Industry-leading financial software.
 - [Gardenary](https://www.gardenary.com) - Garden Coaching and education.
 - [Sidecar](https://sidecar.work) - On-demand project and office administration.
+- [How to Grow Veggies](https://howtogrowveges.com/) - Gardening tips and resources for growing your own vegetables.
 
 ## Installation
 ### Nuxt
