@@ -45,7 +45,8 @@ use `control + shift + L` to show the Griddle overlay in the browser on these pr
 - [All Source Pregnancy](https://www.allsourcepregnancy.com) - Well-researched and understandable information about pregnancy.
 - [Cosaic](https://cosaic.io) - Industry-leading financial software.
 - [Gardenary](https://www.gardenary.com) - Garden Coaching and education.
-- [Sidecar](https://sidecar.work) - On-demand project and office administration.
+[- [Sidecar](https://sidecar.work) - On-demand project and office administration.
+[- (https://www.homesandgardens.com/advice/planning-a-kitchen-garden)- 
 
 ## Installation
 ### Nuxt
